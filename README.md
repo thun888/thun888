@@ -3,8 +3,8 @@
 
 Here are something about me:
 
-- 🔭 I’m currently studying in a senior high school
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently studying in a senior high school.
+- 🌱 I'm fighting for the future.
 - 📫 How to reach me: You can use [e-mail](mailto:thun888@qq.com)
 - ⚡ You can go to my [Blog](http://blog.hzchu.top/about/) to learn more information about me
 
