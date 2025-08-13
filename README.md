@@ -1,9 +1,9 @@
-### Hi there,I am thun888👋
+### Hi there, I am thun888👋
 
 
 Here are something about me:😺
 
-- 🔭 I’m currently studying in a senior high school.
+- 🔭 I’m a student of GZHU.
 - 🌱 I'm fighting for my future.
 - 📫 How to reach me: You can use [e-mail](mailto:thun888@qq.com).
 - ⚡ You can go to my [Blog](http://blog.hzchu.top/about/) to learn more information about me.
